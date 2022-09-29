@@ -1,0 +1,27 @@
+link="../Cards.xlsx!Classes"
+
+unit=cm
+cardsize=16,9
+
+[range]=autorange(6)
+display="../build/classes.png",,,3,[range]
+
+
+VISUAL=HVGPS, 32, 18
+;Image(snap)(size)
+IMAGE=,C:\Users\Streus\workspace\encounter\assets\classes_name.png,{1900/32}%,0%,{1300/32}%,{400/18}%,0,N
+FONT=Averia,32,FT,#000000
+;Text(snap)(size)
+TEXT="1-{(NAME)}",[NAME],{1700/32}%,{100/18}%,43.75%,{200/18}%,CENTER,CENTER
+HTMLFONT=DescFont,Averia,8,,#000000,LEFT
+;HTMLText(snap)(size)
+HTMLTEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{1700/32}%,{700/18}%,43.75%,{1000/18}%,#FFFFFF,0,ET,100,DescFont
+;Image(snap)(size)
+IMAGE=,..\assets\classes_health.png,56.25%,{300/18}%,12.5%,{400/18}%,0,N
+;Text(snap)(size)
+TEXT="1-{(MAX HEALTH)}",[MAX HEALTH],56.25%,{400/18}%,12.5%,{200/18}%
+;Image(snap)(size)
+IMAGE=,..\assets\classes_energy.png,81.25%,{300/18}%,12.5%,{400/18}%,0,N
+;Text(snap)(size)
+TEXT="1-{(ENERGY GAIN)}",[ENERGY GAIN],81.25%,{400/18}%,12.5%,{200/18}%
+ENDVISUAL
