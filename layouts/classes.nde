@@ -1,27 +1,29 @@
 link="../Cards.xlsx!Classes"
 
 unit=cm
-cardsize=16,9
+cardsize=6,9
 
 [range]=autorange(6)
 display="../build/classes.png",,,3,[range]
 
-
-VISUAL=HVGPS, 32, 18
-;Image(snap)(size)
-IMAGE=,C:\Users\Streus\workspace\encounter\assets\classes_name.png,{1900/32}%,0%,{1300/32}%,{400/18}%,0,N
-FONT=Averia,32,FT,#000000
-;Text(snap)(size)
-TEXT="1-{(NAME)}",[NAME],{1700/32}%,{100/18}%,43.75%,{200/18}%,CENTER,CENTER
-HTMLFONT=DescFont,Averia,8,,#000000,LEFT
-;HTMLText(snap)(size)
-HTMLTEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{1700/32}%,{700/18}%,43.75%,{1000/18}%,#FFFFFF,0,ET,100,DescFont
-;Image(snap)(size)
-IMAGE=,..\assets\classes_health.png,56.25%,{300/18}%,12.5%,{400/18}%,0,N
-;Text(snap)(size)
-TEXT="1-{(MAX HEALTH)}",[MAX HEALTH],56.25%,{400/18}%,12.5%,{200/18}%
-;Image(snap)(size)
-IMAGE=,..\assets\classes_energy.png,81.25%,{300/18}%,12.5%,{400/18}%,0,N
-;Text(snap)(size)
-TEXT="1-{(ENERGY GAIN)}",[ENERGY GAIN],81.25%,{400/18}%,12.5%,{200/18}%
+VISUAL=HVGPS, 12, 18
+;Polygon(snap)(size)
+POLYGON=,50%,{600/18}%,100%,{1200/18}%,4,0,[COLOR]
+;Polygon(snap)(size)
+POLYGON=,0%,{1200/18}%,100%,{1200/18}%,4,0,[COLOR]
+;Rectangle(snap)(size)
+RECTANGLE=,{1000/12}%,{100/18}%,{100/12}%,{200/18}%,[COLOR]
+;IMAGE(snap)(size)
+IMAGE="1-{(IMAGE)}",[IMAGE],50%,{1200/18}%,{500/12}%,{500/18}%,0,N
+FONT=Nova Round,32,FT,#000000,#FFFFFF
+;NAME(snap)(size)
+TEXT="1-{(NAME)}",[NAME],{100/12}%,{100/18}%,75%,{200/18}%,LEFT
+HTMLFONT=DescFont,Nova Round,8,,#000000,LEFT
+;DESCRIPTION(snap)(size)
+HTMLTEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{100/12}%,{300/18}%,{1000/12}%,{1400/18}%,#FFFFFF,0,ET,100,DescFont
+FONT=Nova Round,10,T,#FFFFFF
+;MAX HEALTH(snap)(size)
+TEXT="1-{(MAX HEALTH)}",[MAX HEALTH],{1000/12}%,{100/18}%,{100/12}%,{100/18}%
+;ENERGY GAIN(snap)(size)
+TEXT="1-{(ENERGY GAIN)}",[ENERGY GAIN],{1000/12}%,{200/18}%,{100/12}%,{100/18}%
 ENDVISUAL
