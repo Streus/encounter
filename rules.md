@@ -4,7 +4,6 @@
 *Encounter* is a card-based cooperative boss-battling game for 2-6 players. Each player chooses one of six classes to play, each with it's own contribution to the fight.
 
 ## Setup
----
 The game contains the following:
  * 1 Boss Card
  * 1 Boss Deck
@@ -20,7 +19,6 @@ The game contains the following:
  Shuffle each player's Hero deck and the Boss deck.
 
 ## How to play
----
 Players take their turns in clockwise sitting order.
 
 ### Player turn
