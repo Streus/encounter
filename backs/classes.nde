@@ -1,0 +1,19 @@
+link="../Cards.xlsx!Classes"
+
+unit=cm
+cardsize=6,9
+
+[range]=autorange(6)
+display="../build/classes-back.png",,,3,[range]
+display="../build/sentinel-back.png",1,1,1
+display="../build/arborist-back.png",2,2,1
+display="../build/exile-back.png",3,3,1
+display="../build/conduit-back.png",4,4,1
+display="../build/wandslinger-back.png",5,5,1
+display="../build/dustdevil-back.png",6,6,1
+
+VISUAL=HVG, 12, 18
+RECTANGLE=,0%,0%,100%,100%,[COLOR]
+;IMAGE(snap)(size)
+IMAGE="1-{(IMAGE)}",[IMAGE],{100/12}%,{100/18}%,{1000/12}%,{1600/18}%,0,NP
+ENDVISUAL
