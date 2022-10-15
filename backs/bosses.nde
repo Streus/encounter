@@ -3,7 +3,7 @@ link="../Cards.xlsx!Bosses"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(2)
+[range]=autorange(3)
 display="../build/bosses-back.png",,,2,[range]
 display="../build/boss_giant-back.png",1,1,1
 
