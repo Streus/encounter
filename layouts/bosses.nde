@@ -6,8 +6,6 @@ cardsize=6,9
 [range]=autorange(1)
 display="../build/bosses.png",,,1,[range]
 
-[]
-
 VISUAL=HVGPS, 12, 18
 RECTANGLE=1,0%,0%,100%,100%,#000000
 ;Rectangle(snap)(size)
