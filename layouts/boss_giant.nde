@@ -5,9 +5,7 @@ unit=cm
 cardsize=6,9
 
 [range]=autorange(25)
-display="../build/boss_giant-1.png",,,5,[range]
-[range]=autorange(25)
-display="../build/boss_giant-2.png",,,5,[range]
+display="../build/boss_giant.png",,,5,[range]
 
 [COLOR]=#a61c00
 

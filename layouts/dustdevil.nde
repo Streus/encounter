@@ -4,7 +4,7 @@ link="../Cards.xlsx!Dustdevil"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(20)
+[range]=autorange(15)
 display="../build/dustdevil.png",,,5,[range]
 
 [COLOR]=#e69138

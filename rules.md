@@ -14,7 +14,7 @@ The game contains the following:
 
  Select a Hero Class for each player, randomly or by player selection. Give each player the deck and Hero card for their Hero. Also give each player Health tokens equal to the maximum Health indicated on their Hero card.
 
- Place a numnber of Health tokens on the Boss card equal to its maximum Health.
+ Place a number of Health tokens on the Boss card equal to its maximum Health.
 
  Shuffle each player's Hero deck and the Boss deck.
 
@@ -24,9 +24,11 @@ Players take their turns in clockwise sitting order.
 ### Player turn
 **Check Health.** If you have zero or less Health, you are incapacitated and skip your turn.
 
+**Check Boss Status cards.** 
+
 **Draw Boss cards.** Begin your turn by drawing the number of cards indicated on the Boss card from the Boss deck. If the Boss deck runs out, shuffle the Boss discard pile and add it to the Boss deck. Place the drawn cards in front of you.
 
-**Draw Hero cards.** Draw 4 cards from your Hero deck. If your Hero deck runs out, shuffle your discard pile and add it to your Hero deck.
+**Draw Hero cards.** Draw 5 cards from your Hero deck. If your Hero deck runs out, shuffle your discard pile and add it to your Hero deck.
 
 **Gain Energy.** Take a number of Energy tokens equal to the Energy Gain listed on your Hero card.
 
@@ -39,15 +41,15 @@ Players take their turns in clockwise sitting order.
 ### Resolving cards
 Cards you play during your turn take effect (resolve) as you play them.
 
-**Heal** cards resolve immediately.
+**Hero Heal** cards resolve immediately.
 
-**Utility** cards resolve immediately.
+**Hero Utility** cards resolve immediately.
 
 **Defend** cards resolve before opponent Attack cards.
 
 **Hero Attack** cards resolve when they are played, after the effects of any Boss Defend cards are taken into account.
 
-**Boss Attack** cards resolve at the end of the turn of the player they affect. If a Boss card is moved to you when it is not your turn, it is not resolved until the end of your next turn.
+**All Boss** cards resolve at the end of the turn of the player they affect. If a Boss card is moved to you when it is not your turn, it is not resolved until the end of your next turn.
 
 **Status** cards define the conditions in which they apply effects. They may apply these effects as soon as they are played.
 

@@ -4,7 +4,7 @@ link="../Cards.xlsx!Wandslinger"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(20)
+[range]=autorange(15)
 display="../build/wandslinger.png",,,5,[range]
 
 [COLOR]=#cc0000
