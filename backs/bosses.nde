@@ -3,9 +3,12 @@ link="../Cards.xlsx!Bosses"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(3)
+[range]=autorange(4)
 display="../build/bosses-back.png",,,2,[range]
 display="../build/boss_giant-back.png",1,1,1
+display="../build/boss_hunter-back.png",2,2,1
+display="../build/boss_vines-back.png",3,3,1
+display="../build/boss_meta-back.png",4,4,1
 
 VISUAL=HVG, 12, 18
 RECTANGLE=,0%,0%,100%,100%,[COLOR]

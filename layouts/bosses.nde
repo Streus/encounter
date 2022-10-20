@@ -3,32 +3,42 @@ link="../Cards.xlsx!Bosses"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(3)
+[range]=autorange(4)
 display="../build/bosses.png",,,2,[range]
 
 VISUAL=HVGPS, 12, 18
+;Rectangle(snap)(size)
 RECTANGLE=,0%,0%,100%,100%,#000000
 ;Rectangle(snap)(size)
 RECTANGLE=,0%,0%,100%,{200/18}%,[COLOR]
 ;Image(snap)(size)
 IMAGE=,..\assets\heart-drop.png,{100/12}%,0%,{100/12}%,{200/18}%,0,NP
 ;Image(snap)(size)
-IMAGE=,..\assets\rolling-energy.png,{400/12}%,0%,{100/12}%,{200/18}%,0,NP
+IMAGE=,..\assets\stack.png,{500/12}%,0%,{100/12}%,{200/18}%,0,NP
+;Image(snap)(size)
+IMAGE=,..\assets\character.png,75%,0%,{100/12}%,{200/18}%,0,NP
+;Rectangle(snap)(size)
+RECTANGLE=,{500/12}%,{1100/18}%,{700/12}%,{700/18}%,[COLOR]
 ;Polygon(snap)(size)
-POLYGON=,0%,{1200/18}%,100%,{1200/18}%,4,0,[COLOR]
-;Polygon(snap)(size)
-POLYGON=,50%,{600/18}%,100%,{1200/18}%,4,0,[COLOR]
+POLYGON=,{-100/12}%,{1100/18}%,100%,{1200/18}%,4,0,[COLOR]
 ;IMAGE(snap)(size)
 IMAGE="1-{(IMAGE)}",[IMAGE],50%,{1200/18}%,{500/12}%,{500/18}%,0,N
+;Font(snap)(size)
 FONT=Nova Round,32,FT,#FFFFFF,#FFFFFF
 ;NAME(snap)(size)
-TEXT="1-{(NAME)}",[NAME],{100/12}%,{200/18}%,{1000/12}%,{200/18}%,LEFT
+TEXT="1-{(NAME)}",[NAME],{100/12}%,{300/18}%,{1000/12}%,{100/18}%,LEFT
+;TITLE(snap)(size)
+TEXT="1-{(TITLE)}",[TITLE],{100/12}%,{400/18}%,{1000/12}%,{200/18}%,LEFT
+;HTMLFont(snap)(size)
 HTMLFONT=DescFont,Nova Round,8,,#FFFFFF,LEFT
 ;DESCRIPTION(snap)(size)
-HTMLTEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{100/12}%,{400/18}%,{1000/12}%,{500/18}%,#000000,0,ET,100,DescFont
+HTMLTEXT="1-{(DESCRIPTION)}",[DESCRIPTION],{100/12}%,{600/18}%,{1000/12}%,{400/18}%,#000000,0,ET,100,DescFont
+;Font(snap)(size)
 FONT=Nova Round,10,T,#FFFFFF
 ;MAX HEALTH(snap)(size)
 TEXT="1-{(MAX HEALTH)}",[MAX HEALTH],{200/12}%,0%,{200/12}%,{200/18}%,LEFT
 ;DRAWS PER TURN(snap)(size)
-TEXT="1-{(DRAWS PER TURN)}",[DRAWS PER TURN],{500/12}%,0%,{200/12}%,{200/18}%,LEFT
+TEXT="1-{(DRAWS PER TURN)}",[DRAWS PER TURN],50%,0%,{200/12}%,{200/18}%,LEFT
+;PLAYERS(snap)(size)
+TEXT="1-{(PLAYERS)}",[PLAYERS],{1000/12}%,0%,{200/12}%,{200/18}%,LEFT
 ENDVISUAL
