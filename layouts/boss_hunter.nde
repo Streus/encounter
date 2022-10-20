@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../Cards.xlsx!Big Game Hunter"
+link="../data/Bosses.xlsx!Big Game Hunter"
 
 unit=cm
 cardsize=6,9

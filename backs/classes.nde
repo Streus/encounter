@@ -1,4 +1,4 @@
-link="../Cards.xlsx!Classes"
+link="../data/Heroes.xlsx!Classes"
 
 unit=cm
 cardsize=6,9

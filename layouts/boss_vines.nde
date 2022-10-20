@@ -1,13 +1,13 @@
 linkmulti="COUNT"
-link="../data/Bosses.xlsx!Drunkard Giant"
+link="../data/Bosses.xlsx!Living Vines"
 
 unit=cm
 cardsize=6,9
 
-[range]=autorange(25)
-display="../build/boss_giant.png",,,5,[range]
+[range]=autorange(18)
+display="../build/boss_vines.png",,,5,[range]
 
-[COLOR]=#783f04
+[COLOR]=#759417
 
 [DETAILS]=join("Boss - ", [TYPE], " - ", [TARGET])
 VISUAL=HVGPS, 12, 18

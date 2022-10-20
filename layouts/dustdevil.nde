@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../Cards.xlsx!Dustdevil"
+link="../data/Heroes.xlsx!Dustdevil"
 
 unit=cm
 cardsize=6,9

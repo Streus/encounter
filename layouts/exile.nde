@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../Cards.xlsx!Exile"
+link="../data/Heroes.xlsx!Exile"
 
 unit=cm
 cardsize=6,9

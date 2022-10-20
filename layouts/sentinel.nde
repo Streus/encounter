@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../Cards.xlsx!Sentinel"
+link="../data/Heroes.xlsx!Sentinel"
 
 unit=cm
 cardsize=6,9

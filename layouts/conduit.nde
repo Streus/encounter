@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../Cards.xlsx!Conduit"
+link="../data/Heroes.xlsx!Conduit"
 
 unit=cm
 cardsize=6,9

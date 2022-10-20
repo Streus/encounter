@@ -1,7 +1,7 @@
 # Encounter
 
 ## Summary
-*Encounter* is a card-based cooperative boss-battling game for 2-6 players. Each player chooses one of six classes to play, each with it's own contribution to the fight.
+*Encounter* is a card-based cooperative boss-battling game for 2-6 players. Each player chooses one of six classes to play, each with its own contribution to the fight.
 
 ## Setup
 The game contains the following:
@@ -49,7 +49,7 @@ Cards you play during your turn take effect (resolve) as you play them.
 
 **Hero Attack** cards resolve when they are played, after the effects of any Boss Defend cards are taken into account.
 
-**All Boss** cards resolve at the end of the turn of the player they affect. If a Boss card is moved to you when it is not your turn, it is not resolved until the end of your next turn.
+**All Non-Status Boss** cards resolve at the end of the turn of the player they affect. If a Boss card is moved to you when it is not your turn, it is not resolved until the end of your next turn.
 
 **Status** cards define the conditions in which they apply effects. They may apply these effects as soon as they are played.
 
