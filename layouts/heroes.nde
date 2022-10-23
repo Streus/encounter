@@ -1,10 +1,10 @@
-link="../data/Heroes.xlsx!Classes"
+link="../data/Heroes.xlsx!Heroes"
 
 unit=cm
 cardsize=6,9
 
 [range]=autorange(6)
-display="../build/classes.png",,,3,[range]
+display="../build/heroes.png",,,3,[range]
 
 VISUAL=HVGPS, 12, 18
 ;Polygon(snap)(size)

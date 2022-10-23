@@ -3,7 +3,7 @@
 ## Summary
 *Encounter* is a card-based cooperative boss-battling game for 2-6 players. Each player chooses one of six classes to play, each with its own contribution to the fight.
 
-## Setup
+## Setting up
 The game contains the following:
  * 1 Boss Card
  * 1 Boss Deck
@@ -11,6 +11,7 @@ The game contains the following:
  * 6 Hero Class decks
  * Health Tokens
  * Energy Tokens
+ * 1 Round Start Token
 
  Select a Hero Class for each player, randomly or by player selection. Give each player the deck and Hero card for their Hero. Also give each player Health tokens equal to the maximum Health indicated on their Hero card.
 
@@ -18,10 +19,12 @@ The game contains the following:
 
  Shuffle each player's Hero deck and the Boss deck.
 
-## How to play
-Players take their turns in clockwise sitting order.
+## Starting the game
+Each round of the game consists of the players each taking a turn in clockwise sitting order.
 
-### Player turn
+Randomly select a player to begin the first round. Give this player the "Round Start" token.
+
+## Playing a turn
 **Check Health.** If you have zero or less Health, you are incapacitated and skip your turn.
 
 **Check Boss Status cards.** 
@@ -38,44 +41,47 @@ Players take their turns in clockwise sitting order.
 
 **Resolve Boss cards.** If there are Boss cards still in front of you, resolve them.
 
-### Card Types
-TODO
+## Ending a Round
+Once each player takes a turn, move the "Round Start" token to the next clockwise player, and begin a new round.
 
-#### Attack
-TODO
+## Winning and losing
+The Heroes win the game when they reduce the Boss's Health to or below zero, if one or more Heroes still has more than zero Health.
 
-#### Defend
-TODO
+The Heroes lose if they all simultaneously have zero or less Health.
 
-#### Status
-TODO
+## Card Types
 
+### Attack
+**Attack** cards primarily deal damage (decrease **Health** on a target), but may have secondary effects. 
+
+**Hero Attack** cards resolve when they are played, after the effects of any Boss Defend cards are taken into account.
+
+**Boss Attack** cards resolve at the end of the turn of the player they are pending on, unless otherwise stated.
+
+### Defend
+**Defend** cards prevent or immediately respond to incoming damage.
+
+**Defend** cards resolve before opponent Attack cards.
+
+### Status
+**Status** cards define the conditions in which they apply effects. They may apply these effects as soon as they are played.
+
+#### Consume
 Discard the indicated card(s). If the card discarded decribes an effect that takes place when consumed, then enact it.
 
 Consume effects are ignored if the card is discarded by any other means.
 
-#### Heal
-TODO
+### Heal
+**Heal** cards primarily increase the **Health** on a target, but may have secondary effects.
 
-#### Utility
-TODO
+**Hero Heal** cards resolve immediately.
 
-#### Resolution Order
-Cards you play during your turn take effect (resolve) as you play them.
+**Boss Heal** cards resolve at the end of the turn of the player they are pending on.
 
-* **Hero Heal** cards resolve immediately.
+### Utility
+**Utility** cards have any other effects that cannot be classified as an **Attack** or **Heal**, such as card draw.
 
-* **Hero Utility** cards resolve immediately.
+**Hero Utility** cards resolve immediately.
 
-* **Defend** cards resolve before opponent Attack cards.
+**Boss Utility** cards resolve at the end of the turn of the player they are pending on.
 
-* **Hero Attack** cards resolve when they are played, after the effects of any Boss Defend cards are taken into account.
-
-* **All Non-Status Boss** cards resolve at the end of the turn of the player they affect. If a Boss card is moved to you when it is not your turn, it is not resolved until the end of your next turn.
-
-* **Status** cards define the conditions in which they apply effects. They may apply these effects as soon as they are played.
-
-### Winning and losing
-The Heroes win the game when they reduce the Boss's Health to or below zero, if one or more Heroes still has more than zero Health.
-
-The Heroes lose if they all simultaneously have zero or less Health.

@@ -1,0 +1,35 @@
+linkmulti="COUNT"
+link="../data/Minions.xlsx!Living Vines"
+
+unit=cm
+cardsize=6,9
+
+[range]=autorange(6)
+display="../build/minions_vines.png",,,5,[range]
+
+[COLOR]=#759417
+
+VISUAL=HVGPS, 12, 18
+;Rectangle(snap)(size)
+RECTANGLE=,0%,0%,100%,100%,#000000
+;Polygon(snap)(size)
+POLYGON=,0%,{700/18}%,100%,{1000/18}%,6,90,[COLOR]
+;IMAGE(snap)(size)
+IMAGE="1-{(IMAGE)}",[IMAGE],25%,50%,50%,{600/18}%,0,N
+;Font(snap)(size)
+FONT=Nova Round,32,FT,#FFFFFF
+;NAME(snap)(size)
+TEXT="1-{(NAME)}",[NAME],{100/12}%,{300/18}%,75%,{200/18}%,LEFT,CENTER
+;HTMLFont(snap)(size)
+HTMLFONT=FontName,Nova Round,8,,#FFFFFF,LEFT
+;Font(snap)(size)
+FONT=Nova Round,10,TB,#FFFFFF
+;Image(snap)(size)
+IMAGE=,C:\Users\Streus\workspace\encounter\assets\heart-drop.png,{200/12}%,{100/18}%,{100/12}%,{100/18}%,0,NP
+;HEALTH(snap)(size)
+TEXT="1-{(HEALTH)}",[HEALTH],{100/12}%,{200/18}%,25%,{100/18}%,CENTER
+;Image(snap)(size)
+IMAGE=,C:\Users\Streus\workspace\encounter\assets\crossed-swords.png,75%,{100/18}%,{100/12}%,{100/18}%,0,NP
+;ATTACK(snap)(size)
+TEXT="1-{(ATTACK)}",[ATTACK],{800/12}%,{200/18}%,25%,{100/18}%,CENTER
+ENDVISUAL
