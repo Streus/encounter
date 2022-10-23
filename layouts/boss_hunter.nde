@@ -4,7 +4,7 @@ link="../data/Bosses.xlsx!Big Game Hunter"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(20)
+[range]=autorange(25)
 display="../build/boss_hunter.png",,,5,[range]
 
 [COLOR]=#4c1130
