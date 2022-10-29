@@ -10,6 +10,7 @@ The game contains the following:
  * 6 Hero Class Cards
  * 6 Hero Class decks
  * Health Tokens
+ * Barrier Tokens
  * Energy Tokens
  * 1 Round Start Token
 
