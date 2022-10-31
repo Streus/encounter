@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 #### Arborist
 - *Grow* no longer heals for 3, ignoring maximum health. It now grants 3 barrier.
+- Reworded *Absorbed*.
 
 #### Conduit
 - Increased energy gain per turn from 5 to 8.
@@ -37,13 +38,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Sentinel
 - *Block* no longer discards a boss attack card. It now grants the target 2 barrier.
 - *Crush* no longer deals damage equal to 1/2 of current health. It now deals damage equal to current barrier.
+- Removed 1 *Crush* from Sentinel's deck.
+- Replaced *Fortified* with *Fortify*, which gives all living allies 1 barrier.
+- Reworded *Taunted*.
+- Added 1 more *Taunted* to Sentinel's deck.
 
 #### Wandslinger
 - Renamed *Akimbo* to *Quick*.
 - Slightly reworded the description for *Focused*.
 
 #### Big Game Hunter
+- *Execute* now ignores barrier when dealing damage.
 - *Quickshot* no longer reshuffles the discard pile with the boss deck. It now draws 1 boss card after dealing its damage.
+
+#### Drunkard Giant
+- *Punch* no longer applies *Winded*. It now strips barrier before dealing 1 damage.
 
 ### Removed
 
