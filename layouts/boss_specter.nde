@@ -1,13 +1,13 @@
 linkmulti="COUNT"
-link="../data/boss_hunter.csv"
+link="../data/boss_specter.csv"
 
 unit=cm
 cardsize=6,9
 
-[range]=autorange(25)
-display="../build/boss_hunter.png",,,5,[range]
+[range]=autorange(18)
+display="../build/boss_specter.png",,,5,[range]
 
-[COLOR]=#4c1130
+[COLOR]=#073763
 
 [DETAILS]=join("Boss - ", [TYPE], " - ", [TARGET])
 VISUAL=HVGPS, 12, 18

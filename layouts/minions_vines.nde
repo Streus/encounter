@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../data/Minions.xlsx!Living Vines"
+link="../data/minions_vines.csv"
 
 unit=cm
 cardsize=6,9

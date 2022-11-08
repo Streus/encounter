@@ -1,0 +1,9 @@
+COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
+3,Siphoning,0,Status,Ally/Self,"After you deal damage with an <b>Attack</b> card, gain <b>Health</b> equal to the damage dealt. Discard this card when it takes effect.",../assets/exile/leeching-worm.png
+3,Regret,0,Utility,Self,"Take 2 damage, then draw 2 cards.",../assets/exile/wrapped-heart.png
+2,Usurp,2,Utility,Self,"Move a <b>Boss Attack</b>, <b>Boss Utility</b>, or <b>Boss Heal</b> drawn this turn to a player of your choice.",../assets/exile/crowned-skull.png
+2,Forsee,2,Utility,Ally,"Reveal the next 4 cards in the target's deck. They may draw 2 of these cards, and discard the rest.",../assets/exile/maze-cornea.png
+2,Retaliate,2,Attack,Boss,Deal damage equal to your missing <b>Health</b>.,../assets/exile/bleeding-heart.png
+1,Possessed,3,Status,Ally,The next <b>Hero Attack</b> card you play deals double damage. Discard this card when it takes effect.,../assets/exile/kindle.png
+1,Exchange,0,Revive,Ally,"Heal target for 1 <b>Health</b>, reviving them if they are dead, then take 2 damage.",../assets/exile/receive-money.png
+1,Banished,2,Status,Self,"If your <b>Health</b> would be reduced below 1, set it to 1, and skip your next turn. Discard this card after its effect has triggered and you have taken a full turn.",../assets/exile/falling.png

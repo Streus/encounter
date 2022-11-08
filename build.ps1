@@ -13,7 +13,7 @@ if (-Not (Test-Path $nandeckExe)) {
     Remove-Item './tmp'
 }
 
-# Build decks in layouts/ and backs/
-$dirs = './layouts/', './backs/'
+# Build decks in layouts/
+$dirs = './layouts/'
 Write-Output "building decks in $dirs"
 Get-ChildItem -Path $dirs -File | Foreach {./nanDECK.exe /exec $_.fullname}

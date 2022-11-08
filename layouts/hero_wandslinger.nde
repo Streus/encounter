@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../data/Heroes.xlsx!Wandslinger"
+link="../data/hero_wandslinger.csv"
 
 unit=cm
 cardsize=6,9

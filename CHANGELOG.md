@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- This CHANGELOG file
+- Added this CHANGELOG file
+- Added the *Deep Sea Specter* boss
+- Added the *Living Vines* boss
 
 ### Changed
+
+#### General
+- Clarified in the rules how to resolve boss cards that draw more boss cards.
 
 #### Arborist
 - *Grow* no longer heals for 3, ignoring maximum health. It now grants 3 barrier.
@@ -48,10 +53,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Slightly reworded the description for *Focused*.
 
 #### Big Game Hunter
+- Increased max health from 40 to 70.
 - *Execute* now ignores barrier when dealing damage.
 - *Quickshot* no longer reshuffles the discard pile with the boss deck. It now draws 1 boss card after dealing its damage.
 
 #### Drunkard Giant
+- Increased max health from 32 to 50.
+- *Enraged* no longer increases boss card draw. It now increases the damage of all boss attack cards by 1.
+- Increased heal from *Swig* from 2 to 3.
+- Increased heal from *Chug* from 5 to 8.
+- Reworded *Burp*.
+- *Burp* now strips all barrier from all combatants.
 - *Punch* no longer applies *Winded*. It now strips barrier before dealing 1 damage.
 
 ### Removed

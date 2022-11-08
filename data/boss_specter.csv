@@ -1,0 +1,12 @@
+COUNT,NAME,TYPE,TARGET,DESCRIPTION,IMAGE
+5,Drain,Attack,Hero,"Take 3 damage, then the Boss gains 3 <b>Barrier</b>.",../assets/bosses/specter/
+5,Deceive,Utility,Self,The Boss gains 8 <b>Barrier</b>.,../assets/bosses/specter/
+3,Solidify,Heal,Self,Heal the Boss by 1 <b>Health</b> for each <b>Barrier</b> it has. The Boss loses all <b>Barrier</b>.,../assets/bosses/specter/
+3,Wail,Attack,Hero,Take damage equal to the amount of <b>Barrier</b> the Boss has.,../assets/bosses/specter/
+3,Erode,Attack,Hero,Take damage equal to the amount of <b>Health</b> you are missing.,../assets/bosses/specter/
+1,Soul of Lies,Status,Self,"<em>Soul</em>. When this card is consumed, do not discard other <em>Soul</em> cards when they are consumed.",../assets/bosses/specter/
+1,Soul of Fear,Status,Self,"<em>Soul</em>. When this card is consumed, add all discard piles to their respective decks and shuffle them (do not discard <em>Souls</em> before doing this).",../assets/bosses/specter/
+1,Soul of Hate,Status,Self,"<em>Soul</em>. When this card is consumed, all combatants take 3 damage.",../assets/bosses/specter/
+1,Soul of Greed,Status,Self,"<em>Soul</em>. When this card is consumed, all living combatants draw 1 card.",../assets/bosses/specter/
+1,Soul of Misery,Status,Self,"<em>Soul</em>. When this card is consumed, all heroes discard all <b>Status</b> cards applied to them.",../assets/bosses/specter/
+1,Doomfall,Attack,All,The Boss <b>Consumes</b> all <em>Soul</em> cards.,../assets/bosses/specter/

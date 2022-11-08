@@ -40,7 +40,7 @@ Randomly select a player to begin the first round. Give this player the "Round S
 
 **Discard hand.** At the end of your turn, discard any cards remaining in your hand and any unspent Energy. 
 
-**Resolve Boss cards.** If there are Boss cards still in front of you, resolve them.
+**Resolve Boss cards.** If there are Boss cards still in front of you, resolve them. If any Boss cards you resolve draw additional cards, resolve those cards as well.
 
 ## Ending a Round
 Once each player takes a turn, move the "Round Start" token to the next clockwise player, and begin a new round.
@@ -60,9 +60,7 @@ The Heroes lose if they all simultaneously have zero or less Health.
 **Boss Attack** cards resolve at the end of the turn of the player they are pending on, unless otherwise stated.
 
 ### Defend
-**Defend** cards prevent or immediately respond to incoming damage.
-
-**Defend** cards resolve before opponent Attack cards.
+**Defend** cards prevent or immediately respond to incoming damage. They resolve before opponent Attack cards.
 
 ### Status
 **Status** cards define the conditions in which they apply effects. They may apply these effects as soon as they are played.

@@ -1,10 +1,10 @@
-link="../data/Heroes.xlsx!Classes"
+link="../data/heroes.csv"
 
 unit=cm
 cardsize=6,9
 
 [range]=autorange(6)
-display="../build/classes-back.png",,,3,[range]
+display="../build/heroes-back.png",,,3,[range]
 display="../build/sentinel-back.png",1,1,1
 display="../build/arborist-back.png",2,2,1
 display="../build/exile-back.png",3,3,1

@@ -1,0 +1,13 @@
+COUNT,NAME,TYPE,TARGET,DESCRIPTION,IMAGE
+2,Prepared,Status,Self,Draw 1 extra <b>Boss</b> card per turn.,../assets/bosses/hunter/bullets.png
+1,Relentless,Status,Self,Draw 1 <b>Boss</b> card when this card is <b>Consumed</b>.,../assets/bosses/hunter/sprint.png
+5,Camouflaged,Status,Self,Discard the next <b>Hero</b> card targeting the <b>Boss</b>. Discard this card when it takes effect.,../assets/bosses/hunter/hidden.png
+3,Pitfall,Defend,Self,Take 2 damage after dealing damage to the <b>Boss</b> with an <b>Attack</b> card.,../assets/bosses/hunter/spiky-pit.png
+2,Execute,Attack,Hero,"Discard if the Boss does not have <em>Prepared</em>.<br><br><b>Consume</b> all <b>Status</b> cards applied to the Boss, then deal 2 damage for each, ignoring <b>Barrier</b>.",../assets/bosses/hunter/axe-swing.png
+1,Wounded,Status,Hero,Increase damage taken from <b>Boss Attack</b> cards by 2.,../assets/bosses/hunter/broken-bone.png
+1,Isolated,Status,Hero,You can't play cards on allies. Discard this card on the start of your next turn.,../assets/bosses/hunter/ice-iris.png
+1,Revealed,Status,Self,Discard all <em>Camouflaged</em> cards. Discard this card at the end of the next round.,../assets/bosses/hunter/paranoia.png
+1,Retreat,Heal,Self,The Boss <b>Consumes</b> all <b>Status</b> cards applied on the Boss for 2 <b>Health</b> each.,../assets/bosses/hunter/bandage-roll.png
+2,Scattershot,Status,Self,"When this card is consumed, all Heroes take 1 damage.",../assets/bosses/hunter/shotgun-rounds.png
+1,Marked,Status,Hero,"Discard <em>Taunted</em>, if the Boss has it.<br><br>Move all <b>Boss Attack</b> cards to the Hero with this card. Discard this card when <em>Taunted</em> is played on the Boss.",../assets/bosses/hunter/crosshair.png
+5,Quickshot,Attack,Hero,Take 3 damage. Draw 1 <b>Boss</b> card.,../assets/bosses/hunter/striking-balls.png

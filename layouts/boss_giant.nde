@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../data/Bosses.xlsx!Drunkard Giant"
+link="../data/boss_giant.csv"
 
 unit=cm
 cardsize=6,9

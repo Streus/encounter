@@ -1,14 +1,15 @@
-link="../data/Bosses.xlsx!Bosses"
+link="../data/bosses.csv"
 
 unit=cm
 cardsize=6,9
 
-[range]=autorange(4)
-display="../build/bosses-back.png",,,2,[range]
+[range]=autorange(5)
+display="../build/bosses-back.png",,,3,[range]
 display="../build/boss_giant-back.png",1,1,1
 display="../build/boss_hunter-back.png",2,2,1
-display="../build/boss_vines-back.png",3,3,1
-display="../build/boss_meta-back.png",4,4,1
+display="../build/boss_specter-back.png",3,3,1
+display="../build/boss_vines-back.png",4,4,1
+display="../build/boss_meta-back.png",5,5,1
 
 VISUAL=HVG, 12, 18
 RECTANGLE=,0%,0%,100%,100%,[COLOR]

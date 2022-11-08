@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../data/Heroes.xlsx!Sentinel"
+link="../data/hero_sentinel.csv"
 
 unit=cm
 cardsize=6,9

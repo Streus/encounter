@@ -1,0 +1,8 @@
+COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
+2,Draw!,0,Attack,Boss,"<b>Consume</b> all <b>Status</b> cards applied to you, then deal 2 damage for each.",../assets/wandslinger/bullet-impacts.png
+3,Glare,2,Defend,Self,"Ignore 1 <b>Attack</b> card in front of you for this turn, but do not discard that card at the end of your turn.",../assets/wandslinger/bandit.png
+2,Quick,1,Status,Self,Gain 1 <b>Energy</b> when this card is <b>Consumed</b>.,../assets/wandslinger/
+2,Loaded,1,Status,Self,Draw 1 card when this card is <b>Consumed</b>.,../assets/wandslinger/chaingun.png
+2,Steady,2,Status,Self,Immediately discard a <b>Status</b> card when it is applied on you by the <b>Boss</b>. Discard this card when it takes effect.,../assets/wandslinger/boot-stomp.png
+3,Focused,2,Status,Self,Choose 1 card to keep in your hand past the end of your turn.,../assets/wandslinger/eye-target.png
+1,Stow,0,Heal,Self,<b>Consume</b> all <b>Status</b> cards applied to you for 1 <b>Health</b> each.,../assets/wandslinger/magic-swirl.png

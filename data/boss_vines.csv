@@ -1,0 +1,7 @@
+COUNT,NAME,TYPE,TARGET,DESCRIPTION,IMAGE
+5,Sprout,Attack,Hero,Draw 1 <b>Minion</b> and fixate it on yourself.,../assets/bosses/vines/
+5,Bound,Status,Hero,Draw 1 <b>Minion</b> if none are fixated on you. You cannot attack the Boss until all <b>Minion</b> cards on you are discarded.,../assets/bosses/vines/
+5,Confuse,Defend,Self,Take 1 damage for every card you play this turn.,../assets/bosses/vines/
+3,Lash,Attack,Hero,Take 3 damage.,../assets/bosses/vines/
+1,Exposed Heart,Status,Self,The Boss takes double damage from <b>Attack</b> cards.,../assets/bosses/vines/
+1,Withdraw,Heal,Self,Discard <em>Exposed Heart</em>. The Boss regains 5 health.,../assets/bosses/vines/

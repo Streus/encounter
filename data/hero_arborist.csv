@@ -1,0 +1,8 @@
+COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
+3,Grow,2,Heal,Self,Gain 3 <b>Barrier</b>.,../assets/arborist/ground-sprout.png
+3,Shaded,1,Status,Ally,Move 1 <b>Boss Attack</b> card of the Arborist's choice to the Arborist. Discard this card when it takes effect.,../assets/arborist/tree-branch.png
+3,Devour,2,Heal,Ally/Self,<b>Consume</b> all <b>Status</b> cards applied on the target for 1 <b>Health</b> each.,../assets/arborist/ent-mouth.png
+2,Absorbed,2,Status,Boss,Move <b>Boss Status</b> cards to the Arborist when they are drawn. Discard this card at the start of the Arborist's next turn.,../assets/arborist/defibrilate.png
+2,Wither,1,Attack,Boss,"Deal 2 damage, +2 for every <b>Status</b> on the <b>Boss</b>.",../assets/arborist/pumpkin-mask.png
+1,Bloom,3,Heal,All,All combatants gain 4 <b>Health</b>.,../assets/arborist/flowers.png
+1,Invigorated,2,Status,Ally/Self,Gain 1 more <b>Energy</b> at the start of your turn.,../assets/arborist/fragrance.png

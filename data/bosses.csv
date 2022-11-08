@@ -1,0 +1,6 @@
+NAME,TITLE,MAX HEALTH,DRAWS PER TURN,PLAYERS,DESCRIPTION,COLOR,IMAGE
+Megarr,Drunkard Giant,50,2,3,<em>This giant has had a few hundred too many...</em><br><br>Starts with the <em>Indomitable</em> <b>Status</b> card.,#783f04,../assets/bosses/beer-stein.png
+Jhista,Big Game Hunter,70,2,4,<em>A rustle in the underbrush; a crack in the air; a stroke of red painted in the underbrush.</em>,#4c1130,../assets/bosses/winchester-rifle.png
+Quo,Deep Sea Specter,30,3,5,"<em>When the roiling sea claims your flesh, the specters of the deep claim your soul.</em>",#073763,../assets/bosses/sewed-shell.png
+Phn Keh Tsa,Living Vines,60,3,6,<em>Spread. Bind. Consume.</em>,#759417,../assets/bosses/thorny-tentacle.png
+The Meta,Deity of Gaming,9999,5,6,<em>Can't be beat.</em>,#3b3a42,../assets/bosses/evil-book.png

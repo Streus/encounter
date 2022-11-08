@@ -1,0 +1,15 @@
+COUNT,NAME,TYPE,TARGET,DESCRIPTION,IMAGE
+1,Indomitable,Status,Self,Damage cannot reduce the Boss's <b>Health</b> below half of maximum. Remove this card from the game when it's discarded.,../assets/bosses/giant/bull.png
+1,Stumbling,Status,Self,"Discard <em>Indomitable</em>. Each turn, you may discard a <b>Boss</b> card drawn that turn and redraw.",../assets/bosses/giant/shambling-zombie.png
+2,Enraged,Status,Self,All <b>Boss Attack</b> cards deal 1 more damage.,../assets/bosses/giant/flamed-leaf.png
+1,Passed Out,Status,Self,Discard if the Boss does not have <em>Stumbling</em>.<br><br>Discard <em>Stumbling</em>. Do not draw <b>Boss</b> cards for the rest of the round. Discard this card at the start of the next round.,../assets/bosses/giant/night-sleep.png
+2,Swig,Heal,Self,The Boss gains 3 <b>Health</b>.,../assets/bosses/giant/glass-shot.png
+1,Chug,Heal,Self,The Boss gains 8 <b>Health</b>.,../assets/bosses/giant/water-flask.png
+1,Burp,Utility,All,Remove all <b>Player Status</b> cards applied to the Boss. Strip all <b>Barrier</b> from all combatants.,../assets/bosses/giant/shouting.png
+1,Kick,Attack,Hero,Take 4 damage.,../assets/bosses/giant/tread.png
+3,Smash,Attack,Hero,Take 3 damage.,../assets/bosses/giant/rock.png
+5,Bash,Attack,Hero,Take 2 damage.,../assets/bosses/giant/broken-bottle.png
+1,Punch,Attack,Hero,"Strip all <b>Barrier</b>, then take 1 damage.",../assets/bosses/giant/punch.png
+2,Winded,Status,Hero,Gain 1 less <b>Energy</b> at the start of your turn. Discard this card at the end of your turn.,../assets/bosses/giant/oppression.png
+2,Concussed,Status,Hero,Draw 1 less card at the start of your turn.,../assets/bosses/giant/stoned-skull.png
+2,Nauseated,Status,Hero,Take 1 damage at the end of your turn.,../assets/bosses/giant/vomiting.png

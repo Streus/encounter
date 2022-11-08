@@ -1,5 +1,5 @@
 linkmulti="COUNT"
-link="../data/Heroes.xlsx!Arborist"
+link="../data/hero_arborist.csv"
 
 unit=cm
 cardsize=6,9
