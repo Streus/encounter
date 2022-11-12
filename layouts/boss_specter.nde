@@ -4,7 +4,7 @@ link="../data/boss_specter.csv"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(18)
+[range]=autorange(25)
 display="../build/boss_specter.png",,,5,[range]
 
 [COLOR]=#073763
