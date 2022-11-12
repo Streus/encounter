@@ -6,9 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
-- Added this CHANGELOG file
-- Added the *Deep Sea Specter* boss
-- Added the *Living Vines* boss
+
+#### General
+- Added this CHANGELOG file.
+- Added rules for minions.
+
+#### Bosses
+- Added the *Deep Sea Specter* boss.
+- Added the *Living Vines* boss.
 
 ### Changed
 
@@ -70,5 +75,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *Punch* no longer applies *Winded*. It now strips barrier before dealing 1 damage.
 
 ### Removed
+
+#### General
+- The turn start token no longer moves at the end of a round.
 
 [Unreleased]: https://github.com/Streus/encounter/compare/v1.1.1...HEAD

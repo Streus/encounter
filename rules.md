@@ -5,8 +5,8 @@
 
 ## Setting up
 The game contains the following:
- * 1 Boss Card
- * 1 Boss Deck
+ * 4 Boss Cards
+ * 4 Boss Decks
  * 6 Hero Class Cards
  * 6 Hero Class decks
  * Health Tokens
@@ -42,8 +42,7 @@ Randomly select a player to begin the first round. Give this player the "Round S
 
 **Resolve Boss cards.** If there are Boss cards still in front of you, resolve them. If any Boss cards you resolve draw additional cards, resolve those cards as well.
 
-## Ending a Round
-Once each player takes a turn, move the "Round Start" token to the next clockwise player, and begin a new round.
+**Deal minion damage.** If there are any boss minions fixated on you, deal their damage to yourself.
 
 ## Winning and losing
 The Heroes win the game when they reduce the Boss's Health to or below zero, if one or more Heroes still has more than zero Health.
