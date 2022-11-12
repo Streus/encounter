@@ -44,9 +44,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *Block* no longer discards a boss attack card. It now grants the target 2 barrier.
 - *Crush* no longer deals damage equal to 1/2 of current health. It now deals damage equal to current barrier.
 - Removed 1 *Crush* from Sentinel's deck.
-- Replaced *Fortified* with *Fortify*, which gives all living allies 1 barrier.
+- Replaced *Fortified* with *Fortify*, which gives Sentinel and all living allies 1 barrier.
 - Reworded *Taunted*.
-- Added 1 more *Taunted* to Sentinel's deck.
+- *Rumble* no longer draws 3 cards, discarding boss attack cards drawn. It now discards all boss attack cards pending on you.
+- Increased the energy cost of *Rumble* from 0 to 3.
+- *Weather* no longer deals damage to you based on the number of boss attack cards pending on you, discards those boss attack cards, and ends your turn, retaining yor hand. It now converts all barrier into energy.
+- Added 1 *Weather* to Sentinel's deck.
 
 #### Wandslinger
 - Renamed *Akimbo* to *Quick*.
