@@ -4,7 +4,7 @@ link="../data/minions_vines.csv"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(6)
+[range]=autorange(14)
 display="../build/minions_vines.png",,,5,[range]
 
 [COLOR]=#759417

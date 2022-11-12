@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 ### Added
+- Nothing.
+
+### Changed
+- Nothing.
+
+### Removed
+- Nothing.
+
+## [1.2.0] | Dragged Below
+### Added
 
 #### General
 - Added this CHANGELOG file.
@@ -51,6 +61,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Removed 1 *Crush* from Sentinel's deck.
 - Replaced *Fortified* with *Fortify*, which gives Sentinel and all living allies 1 barrier.
 - Reworded *Taunted*.
+- *Erupt* now grants card draw instead of energy gain.
 - *Rumble* no longer draws 3 cards, discarding boss attack cards drawn. It now discards all boss attack cards pending on you.
 - Increased the energy cost of *Rumble* from 0 to 3.
 - *Weather* no longer deals damage to you based on the number of boss attack cards pending on you, discards those boss attack cards, and ends your turn, retaining yor hand. It now converts all barrier into energy.
@@ -79,4 +90,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### General
 - The turn start token no longer moves at the end of a round.
 
-[Unreleased]: https://github.com/Streus/encounter/compare/v1.1.1...HEAD
+[Unreleased]: https://github.com/Streus/encounter/compare/v1.2.0...HEAD
+[1.2.0]: https://github.com/Streus/encounter/compare/v1.1.1...v1.2.0

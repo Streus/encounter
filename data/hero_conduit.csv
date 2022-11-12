@@ -1,7 +1,7 @@
 COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
 2,Orb of Jyun,0,Status,Self,Move to an ally not holding an <em>Orb of Jyun</em>. The Conduit loses 2 <b>Energy</b> and the target gains 1 <b>Energy</b>.,../assets/conduit/star-sattelites.png
 3,Sooth,2,Heal,Orb,You and each <em>Orb of Jyun</em> holder gain 2 <b>Health</b>.,../assets/conduit/water-splash.png
-3,Energize,X,Heal,Ally,Spend the rest of your <b>Energy</b>. Heal 1 chosen <em>Orb of Jyun</em> holder for an the amount of <b>Energy</b> spent.,../assets/conduit/lightning-electron.png
+3,Energize,X,Heal,Ally,Spend the rest of your <b>Energy</b>. Heal 1 chosen <em>Orb of Jyun</em> holder for the amount of <b>Energy</b> spent.,../assets/conduit/lightning-electron.png
 2,Cleanse,3,Utility,Orb,You and each <em>Orb of Jyun</em> holder discard all <b>Boss Status</b> cards applied to yourselves.,../assets/conduit/foam.png
 2,Meditate,1,Utility,Self,Draw 3 cards.,../assets/conduit/juggler.png
 1,Discharge,X,Attack,Boss,Spend the rest of your <b>Energy</b>. Deal damage equal to the <b>Energy</b> spent.,../assets/conduit/lightning-trio.png

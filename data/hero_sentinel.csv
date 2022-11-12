@@ -3,6 +3,6 @@ COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
 2,Taunted,2,Status,Boss,Move <b>Boss Attack</b> cards to the Sentinel when they are drawn. Discard this card at the start of the Sentinel's next turn.,../assets/sentinel/angry-eyes.png
 2,Crush,2,Attack,Boss,Deal damage equal to your current <b>Barrier</b>.,../assets/sentinel/skull-crack.png
 2,Fortify,2,Defend,Allies,You and all living allies gain 1 <b>Barrier</b>.,../assets/sentinel/brick-wall.png
-1,Erupt,0,Utility,Self,Gain <b>Energy</b> equal to the number of <b>Boss Attack</b> cards pending on you.,../assets/sentinel/caldera.png
+1,Erupt,0,Utility,Self,Draw cards equal to the number of <b>Boss Attack</b> cards pending on you.,../assets/sentinel/caldera.png
 1,Rumble,3,Utility,Self,Discard all <b>Boss Attack</b> cards pending on you.,../assets/sentinel/falling-rocks.png
 2,Weather,2,Utility,Self,Convert all <b>Barrier</b> on you into <b>Energy</b>.,../assets/sentinel/lightning-storm.png

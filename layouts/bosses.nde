@@ -3,8 +3,8 @@ link="../data/bosses.csv"
 unit=cm
 cardsize=6,9
 
-[range]=autorange(4)
-display="../build/bosses.png",,,2,[range]
+[range]=autorange(5)
+display="../build/bosses.png",,,3,[range]
 
 VISUAL=HVGPS, 12, 18
 ;Rectangle(snap)(size)
