@@ -2,7 +2,7 @@ COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
 1,Whirlwind,2,Status,Self,Gain 1 <b>Energy</b> for every 2 damage dealt for the rest of this turn. Discard this card at the end of your turn.,../assets/dustdevil/tornado.png
 5,Spin,0,Attack,Boss,Deal 1 damage. Draw 1 card.,../assets/dustdevil/sword-spin.png
 3,Slash,1,Attack,Boss,Deal 3 damage.,../assets/dustdevil/saber-slash.png
-2,Stab,0,Attack,Boss,"Deal 2 damage for each <b>Attack</b> played this turn, ignoring <b>Barrier</b> on the target.",../assets/dustdevil/knife-thrust.png
+2,Stab,0,Attack,Boss,"Deal 2 damage for each <b>Energy</b> spent this turn, ignoring <b>Barrier</b> on the target.",../assets/dustdevil/knife-thrust.png
 2,Dodge,2,Defend,Self,Discard 1 <b>Attack</b> card pending on you. Draw 1 card.,../assets/dustdevil/cloud-ring.png
 1,Counter,1,Defend,Self,Use a <b>Boss Attack</b> card drawn this turn on the <b>Boss</b>.,../assets/dustdevil/sword-break.png
 1,Pocket Sand,2,Status,Self,"Discard the next <b>Boss Status</b> applied to you, then discard this card.",../assets/dustdevil/dust-cloud.png

@@ -9,7 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Nothing.
 
 ### Changed
-- Nothing.
+
+#### Dustdevil
+- Reduced energy gain per turn from 5 to 4.
+- *Stab* no longer deals damage based on cards played. It now deals damage based on energy spent.
 
 ### Removed
 - Nothing.
