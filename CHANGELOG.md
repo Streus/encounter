@@ -5,8 +5,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
-### Added
-- Nothing.
 
 ### Changed
 
@@ -14,8 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Reduced energy gain per turn from 5 to 4.
 - *Stab* no longer deals damage based on cards played. It now deals damage based on energy spent.
 
-### Removed
-- Nothing.
+#### Sentinel
+- Added *Impale*.
+- Renamed *Weather* to *Melt*.
+- Renamed *Block* to *Crystalize*.
+- Increased energy cost of *Crystalize* (*Block*) from 1 to 2.
+- *Crystalize* (*Block*) now may target any combatant.
+- Increased barrier granted by *Crystalize* (*Block*) from 2 to 5.
+- *Fortify* no longer grants barrier to the Sentinel. Increased barrier granted to allies from 1 to 2.
+- Removed *Crush*.
+- Removed *Rumble*.
 
 ## [1.2.0] | Dragged Below
 ### Added
