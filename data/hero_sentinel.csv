@@ -1,6 +1,6 @@
 COUNT,NAME,COST,TYPE,TARGET,DESCRIPTION,IMAGE
 5,Crystalize,2,Defend,Any,Grant 5 <b>Barrier</b>.,../assets/sentinel/crystal-bars.png
-3,Impale,1,Attack,Boss,Strip up to 8 <b>Barrier</b>. Deal 1 damage for every <b>Barrier</b> stripped.,../assets/sentinel/shatter.png
+3,Impale,1,Attack,Boss,Strip up to 8 <b>Barrier</b>. Deal 1 damage to <b>Health</b> for every <b>Barrier</b> stripped.,../assets/sentinel/shatter.png
 2,Melt,2,Utility,Self,Convert all <b>Barrier</b> on you into <b>Energy</b>.,../assets/sentinel/melting-metal.png
 2,Fortify,2,Defend,Allies,Grant all living allies 2 <b>Barrier</b>.,../assets/sentinel/brick-wall.png
 2,Taunted,1,Status,Boss,Move <b>Boss Attack</b> cards to the Sentinel when they are drawn. Discard this card at the start of the Sentinel's next turn.,../assets/sentinel/angry-eyes.png
