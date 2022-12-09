@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - *Stab* no longer deals damage based on cards played. It now deals damage based on energy spent.
 
 #### Sentinel
+- Increased energy gain per turn from 3 to 4.
 - Added *Impale*.
 - Renamed *Weather* to *Melt*.
 - Renamed *Block* to *Crystalize*.

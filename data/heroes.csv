@@ -1,5 +1,5 @@
 NAME,MAX HEALTH,ENERGY GAIN,DESCRIPTION,COLOR,IMAGE
-Sentinel,15,3,"The mountain that shields the heartland. Protects allies by preventing damage, as well as redirecting it to themselves.",#45818e,../assets/classes/summits.png
+Sentinel,15,4,"The mountain that shields the heartland. Protects allies by preventing damage, as well as redirecting it to themselves.",#45818e,../assets/classes/summits.png
 Arborist,12,4,The tenacious roots that bind the heartland. Absorbs and redirects damage. Prevents the application of statuses. ,#38761d,../assets/classes/three-leaves.png
 Exile,9,4,The great darkness that envelops Jyundoktir. Uses dark methods to improve allies' damage and siphon health.,#674ea7,../assets/classes/alien-skull.png
 Conduit,5,8,The rain that falls from Jyundoktir. Heals and energizes allies with mobile orbs.,#1155cc,../assets/classes/star-sattelites.png
